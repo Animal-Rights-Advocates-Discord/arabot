@@ -75,6 +75,9 @@ let IDs = {
       potgm: '956224095509442600',
       disabilities: '933078769365823518',
     },
+    activism: {
+      twitter: '774477001741434920',
+    }
   },
   categories: {
     diversity: '933078380394459146',

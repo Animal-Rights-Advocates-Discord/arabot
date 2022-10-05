@@ -75,6 +75,9 @@ const devIDs = {
       potgm: '999431679053660189',
       disabilities: '999431679527628810',
     },
+    activism: {
+      twitter: '999431678214807608',
+    }
   },
   categories: {
     verification: '999431677006860409',
