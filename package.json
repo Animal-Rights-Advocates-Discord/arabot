@@ -33,7 +33,7 @@
     "node": ">=20",
     "pnpm": ">=9"
   },
-  "packageManager": "pnpm@9.6.0",
+  "packageManager": "pnpm@9.14.2",
   "dependencies": {
     "@prisma/client": "^5.18.0",
     "@sapphire/discord.js-utilities": "^7.3.0",
